@@ -185,28 +185,6 @@ Different algorithms exhibited different strengths and weaknesses. Selecting the
 * Recall and F1 Score are critical metrics when identifying customers at risk of leaving.
 
 
-## Projects Visualizations 
-
-### Model Performance Comparison 
-![Model Comparison](Model performance comparison.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Conclusion
 
 This project demonstrates the application of machine learning techniques to solve a real-world business problem. By comparing multiple classification algorithms and optimizing the best-performing model through hyperparameter tuning, a robust customer churn prediction system was developed.
